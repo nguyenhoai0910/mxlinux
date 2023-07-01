@@ -10,4 +10,6 @@ sudo apt-get install ttf-mscorefonts-installer
 
 //install remote desktop windows
 sudo apt install remmina remmina-plugin-*
-history
+
+//firewalld
+gufw

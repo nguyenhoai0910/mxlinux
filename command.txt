@@ -1,1 +1,13 @@
+// update and upgrade
+sudo apt update -y
+sudo apt upgrade -y
+sudo reboot
 
+//install font vietnamese (arial, Times New Roman font)
+sudo dpkg-reconfigure keyboard-configuration
+sudo apt-get install msttcorefonts
+sudo apt-get install ttf-mscorefonts-installer
+
+//install remote desktop windows
+sudo apt install remmina remmina-plugin-*
+history

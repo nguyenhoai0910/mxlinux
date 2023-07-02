@@ -1,2 +1,0 @@
-background 
-/usr/share/backgrounds/
